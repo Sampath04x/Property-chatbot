@@ -1,0 +1,181 @@
+[
+    {
+      "id": 1,
+      "address": "123 Main St, Anytown",
+      "price": 350000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "sqft": 1800,
+      "type": "House",
+      "amenities": ["garage", "garden"],
+      "description": "Beautiful family home with modern kitchen."
+    },
+    {
+      "id": 2,
+      "address": "456 Oak Ave, Somewhere",
+      "price": 275000,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "sqft": 1200,
+      "type": "Condo",
+      "amenities": ["pool", "gym"],
+      "description": "Luxury condo with great amenities."
+    },
+    {
+      "id": 3,
+      "address": "789 Pine Rd, Lakeside",
+      "price": 480000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "sqft": 2200,
+      "type": "House",
+      "amenities": ["lake view", "deck", "fireplace"],
+      "description": "Spacious lakefront property with stunning views."
+    },
+    {
+      "id": 4,
+      "address": "321 Elm St, Urbanville",
+      "price": 310000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "sqft": 1400,
+      "type": "Apartment",
+      "amenities": ["roof terrace", "elevator", "security"],
+      "description": "Modern apartment in the heart of the city."
+    },
+    {
+      "id": 5,
+      "address": "654 Maple Dr, Suburbia",
+      "price": 399000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "sqft": 1900,
+      "type": "Townhouse",
+      "amenities": ["garage", "community park", "basement"],
+      "description": "Well-maintained townhouse in a friendly neighborhood."
+    },
+    {
+      "id": 6,
+      "address": "987 Cedar Ln, Hilltop",
+      "price": 520000,
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "sqft": 3000,
+      "type": "House",
+      "amenities": ["home office", "pool", "3-car garage"],
+      "description": "Luxury hilltop estate with space for the whole family."
+    },
+    {
+      "id": 7,
+      "address": "159 Birch Ct, Riverside",
+      "price": 265000,
+      "bedrooms": 2,
+      "bathrooms": 1.5,
+      "sqft": 1100,
+      "type": "Condo",
+      "amenities": ["river walk access", "gym", "clubhouse"],
+      "description": "Cozy riverside condo with access to walking trails."
+    },
+    {
+      "id": 8,
+      "address": "753 Spruce Blvd, Coastal Town",
+      "price": 680000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "sqft": 2400,
+      "type": "House",
+      "amenities": ["ocean view", "patio", "solar panels"],
+      "description": "Stunning coastal home with eco-friendly features."
+    },
+    {
+        "id": 9,
+        "address": "852 Willow Way, Meadowbrook",
+        "price": 295000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 1600,
+        "type": "House",
+        "amenities": ["garden", "garage", "attic"],
+        "description": "Charming home with a large backyard and updated appliances."
+        },
+        {
+        "id": 10,
+        "address": "468 Aspen Pl, Oldtown",
+        "price": 230000,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "sqft": 1000,
+        "type": "Apartment",
+        "amenities": ["balcony", "storage", "laundry"],
+        "description": "Cozy apartment with historic charm and modern touches."
+        },
+        {
+        "id": 11,
+        "address": "207 Chestnut Ln, Greenwood",
+        "price": 575000,
+        "bedrooms": 4,
+        "bathrooms": 3.5,
+        "sqft": 2700,
+        "type": "House",
+        "amenities": ["guest house", "pool", "fireplace"],
+        "description": "Elegant home perfect for entertaining, with a private guest suite."
+        },
+        {
+        "id": 12,
+        "address": "313 Poplar Rd, Bayview",
+        "price": 610000,
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "sqft": 3200,
+        "type": "House",
+        "amenities": ["beach access", "deck", "sauna"],
+        "description": "Luxury retreat near the beach with spa-like features."
+        },
+        {
+        "id": 13,
+        "address": "129 Redwood St, Uptown",
+        "price": 345000,
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "sqft": 1300,
+        "type": "Condo",
+        "amenities": ["pool", "gym", "covered parking"],
+        "description": "Contemporary condo with access to vibrant city life."
+        },
+        {
+        "id": 14,
+        "address": "902 Palm Dr, Sunville",
+        "price": 460000,
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "sqft": 2100,
+        "type": "Townhouse",
+        "amenities": ["solar panels", "garage", "community pool"],
+        "description": "Energy-efficient townhouse in a sunny neighborhood."
+        },
+        {
+        "id": 15,
+        "address": "681 Fir St, Snowcap",
+        "price": 525000,
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "sqft": 2500,
+        "type": "House",
+        "amenities": ["mountain view", "fireplace", "hot tub"],
+        "description": "Cozy mountain retreat with scenic views and rustic charm."
+        },
+        {
+        "id": 16,
+        "address": "214 Magnolia Ave, Rivertown",
+        "price": 270000,
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "sqft": 1150,
+        "type": "Apartment",
+        "amenities": ["balcony", "pet-friendly", "parking"],
+        "description": "Bright apartment in a quiet riverside community."
+        }
+
+        
+  ]
+  
