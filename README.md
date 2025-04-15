@@ -25,29 +25,22 @@ A simple chatbot built with **Flask** and **NLTK** that helps users search for p
 ## 🚀 Getting Started
 
 ### 1. Clone the repo
-```bash
+
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 2. Install dependencies
-bash
-Copy
-Edit
+
 pip install flask nltk flask-cors
 3. Run the app
-bash
-Copy
-Edit
+
 python app.py
 Open your browser and visit:
 
-cpp
-Copy
-Edit
+
 http://127.0.0.1:5000/
+
 📁 File Structure
-pgsql
-Copy
-Edit
+
 ├── app.py
 ├── property_data.json
 ├── templates/
@@ -60,9 +53,7 @@ Edit
 
 Bot will return matching listings like:
 
-python-repl
-Copy
-Edit
+
 123 Main St - $350,000 - 3 bed, 2 bath
 ...
 🧠 NLP Basics
